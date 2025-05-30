@@ -4,7 +4,6 @@
 **Nom :** ACHAQ  
 **Prénom :** Hajar
 
-Ce projet est une application desktop Python avec interface graphique pour optimiser un réseau de recharge pour véhicules électriques, intégrant plusieurs algorithmes d'optimisation.
 # Réseau de Recharge pour Véhicules Électriques 🔌🚗
 
 Ce projet est une application graphique développée en Python avec Tkinter.  
